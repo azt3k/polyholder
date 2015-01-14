@@ -1,0 +1,27 @@
+{
+  "name": "polyholder",
+  "version": "1.0.0",
+  "description": "A basic jQuery plugin that reads the `placeholder` attribute (HTML5) and renders the placeholder text as an overlay (if not natively supported).",
+  "main": "polyholder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azt3k/polyholder.git"
+  },
+  "devDependencies": {
+    "uglify-js": "2.4.15"
+  },
+  "keywords": [
+    "height",
+    "width",
+    "tablizr",
+    "jquery"
+  ],
+  "author": "Brian Reavis, John Hunter, Aaron Latham-Ilari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azt3k/polyholder/issues"
+  }
+}

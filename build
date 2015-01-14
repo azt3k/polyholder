@@ -1,0 +1,4 @@
+#!/bin/bash
+
+OUTPUT=$(uglifyjs polyholder.js -m -r '$,require,exports')
+echo ";$OUTPUT" > polyholder.min.js

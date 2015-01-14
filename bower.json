@@ -1,0 +1,20 @@
+{
+  "name": "polyholder",
+  "version": "1.0.0",
+  "repo": "azt3k/polyholder",
+  "homepage": "https://github.com/azt3k/polyholder",
+  "description": "A basic jQuery plugin that reads the `placeholder` attribute (HTML5) and renders the placeholder text as an overlay (if not natively supported).",
+  "keywords": [
+    "height",
+    "width",
+    "tabelizr",
+    "jquery"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~1.11.1"
+  },
+  "main": "polyholder.js",
+  "development": {},
+  "ignore": []
+}
